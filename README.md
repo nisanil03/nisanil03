@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisanil03&label=Profile%20views&color=0e75b6&style=flat" alt="nisanil03" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jaiswal_an44817" target="blank"><img src="https://img.shields.io/twitter/follow/jaiswal_an44817?logo=twitter&style=for-the-badge" alt="jaiswal_an44817" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/anil-jaiswal-367952255/" target="blank"><img src="https://img.shields.io/twitter/follow/jaiswal_an44817?logo=twitter&style=for-the-badge" alt="jaiswal_an44817" /></a> </p>
 
 - 🌱 I’m currently learning **Backend**
 
